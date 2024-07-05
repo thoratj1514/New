@@ -1,4 +1,4 @@
 # New
 My First Repository
 </br>
-Author - Jay Thorat
+Author - Jay Vasant Thorat
